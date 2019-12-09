@@ -83,7 +83,9 @@
               "productNumber": "793656"
           }
       ],
-      "seasonCode": "SS20"
+      "seasonCode": "SS20",
+      "grnStock": "100",
+      "asnStock": "300"
   },
   {
       "slug": "f55c072c-ca0a-08d3-9c4c-be92c54a5391",
@@ -165,7 +167,9 @@
               "productNumber": "793662"
           }
       ],
-      "seasonCode": "SS20"
+      "seasonCode": "SS20",
+      "grnStock": "200",
+      "asnStock": "400"
   }
  ]
 }
