@@ -175,15 +175,18 @@
  "users": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Janet",
+      "userName": "itjb"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "James",
+      "uaserName": "itjo"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "name": "Ruaan",
+      "uaserName": "itrv"
     }
   ]
 }
