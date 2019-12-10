@@ -170,7 +170,95 @@
       "seasonCode": "SS20",
       "grnStock": "200",
       "asnStock": "400"
-  }
+  },
+  ,
+    {
+        "slug": "60e8bb71-105d-aedf-aff1-fd7262fb37a9",
+        "optionSlug": "907373ae-58d3-d226-bed1-c4e1b7bcd087",
+        "styleSlug": "abc38b78-f170-74c8-13d9-e62dc343835c",
+        "developmentId": "WJT192643",
+        "productNumber": null,
+        "temporaryProductNumber": null,
+        "supplier": null,
+        "supplierCode": "10638",
+        "supplierDescription": "COMPAGNIE MAURICIENNE DE TXTILE",
+        "status": "Proposed",
+        "statusAsOfDate": null,
+        "commentCount": 0,
+        "createdDateDevelopment": "2019-12-05T15:39:56.185905Z",
+        "userName": "julie.nolan@river-island.com",
+        "hierarchySlug": "07e8addb-7c40-30ba-db39-12f6795d2f8c",
+        "currentFullPrice": 0,
+        "promoPrice": 0,
+        "hasOptionLibrary": true,
+        "attributes": {
+            "colour": "5c5d50e7-c3c2-24ac-8bfe-346771791ec0",
+            "colourGrouping": "094d31ea-d1c5-4082-8427-de66d41a5412",
+            "distributionProfile": "f076caf8-d24f-441a-9ed7-9f9d0d1b954c",
+            "endUseBrandsLooks": "ce8ae50c-e227-41cc-832d-2408a12df278",
+            "event": [
+                "65f1f95f-43c7-4fd2-a0a3-211bcf3894b1"
+            ],
+            "fabricType": "6fcc7d97-f647-f50e-2bbb-ec0a9e5c328c",
+            "familiarity": "bde28866-4e40-4bcf-a089-b02968ea6511",
+            "feature": [
+                "6fdf5016-fc64-423e-ba9e-e523d9b07c5f",
+                "d18463e2-a948-40af-8992-906ce61b2153",
+                "0af9f68f-066c-4858-b9a1-b648668fab61",
+                "c656f3d9-4391-499b-81aa-3c6cdef53e24"
+            ],
+            "fit": "468243e5-74c3-4644-bf5f-f0c536ff579a",
+            "multibuy": "9a0dbb92-d5e6-4474-a742-8aa1b8a8eddb",
+            "neckShape": "4d894186-4581-4e92-a818-fa18dec246c2",
+            "nonDev": true,
+            "priceArchitecture": "7ce0af83-0f21-4f15-aaab-27360611aee1",
+            "print": "36ba62c7-6814-91cf-365a-f637c8437145",
+            "productCategory": "35d7f446-6f4d-423e-b666-9a2156cfa240",
+            "productLifeline": "dd4e102a-f131-47ec-bdd1-5d50b1284031",
+            "rework": false,
+            "sampleUrl": "https://api.prod.product.ri-tech.io/sketches/a32f0f11d0f20bb798e2ac72bf1c2e7a0d1d2884.png",
+            "season": "f1ddcb27-43c1-45b5-b964-18db5b8a2187",
+            "seasonality": "2f4019d6-4084-ccfc-f4dd-8a2461582d65",
+            "sellingPeriod": [
+                "b14a2bab-d7da-43e0-a10e-db132aa69efb",
+                "c143edf5-6878-4e6a-aecf-e6f4a33fb7de"
+            ],
+            "sketchUrl": "https://api.prod.product.ri-tech.io/sketches/09af00c8117e3d33c92af2ff920c83c8960e7d7d.png",
+            "sleeveLength": "d53a4aa8-06c9-4fbf-b573-71e36056783a",
+            "styleDescription": "Ss Diamante Button Curve Tee",
+            "styleGroup": "037bc59a-8dfd-4f60-b93b-b3724541106e",
+            "styleName": "CURVE WITH SIDE SPLITS",
+            "suppCost": {
+                "currency": "GBP",
+                "value": 0
+            },
+            "supplierCost": {
+                "currency": "GBP",
+                "value": 3.72
+            },
+            "sustainable": true,
+            "sustainableGrouping": [
+                "7f3436be-f13d-4afa-92a0-c2d4004506bd"
+            ],
+            "sustainableReason": [
+                "d18a84f6-7991-47b6-90e8-5c94969b4467"
+            ],
+            "trademarkBrand": "b1f08c91-09af-4ce9-97a0-53bf4386c676",
+            "weight": "dcdcacf4-467f-491a-83c4-4253e2478500"
+        },
+        "groups": {
+            "matchingProductGroupSlug": null,
+            "crossDepartmentGroupSlug": null
+        },
+        "hasSupplierLink": false,
+        "hasColourLink": false,
+        "sellingPrice": 16000,
+        "countryCode": "MU",
+        "sizeGroups": null,
+        "seasonCode": "SS20",
+        "grnStock": "1000",
+        "asnStock": "200"
+    }
  ],
  "users": [
     {
