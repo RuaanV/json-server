@@ -1,6 +1,7 @@
 { "products": [
   {
       "id": "a3fda07a-6d7c-df48-89f8-0aba2644a88d",
+      "allocationStatus": "Awaiting Allocation",
       "optionSlug": "0d9b8dc0-8c02-5fb4-7fda-ba7052986ad8",
       "styleSlug": "128ab3df-9276-716c-165b-8fd97f601cfe",
       "developmentId": "WJT192649",
@@ -89,6 +90,7 @@
   },
   {
       "id": "f55c072c-ca0a-08d3-9c4c-be92c54a5391",
+      "allocationStatus": "Awaiting Allocation",
       "optionSlug": "ca52f81e-e74c-1f59-7ae3-7c8c2c35f872",
       "styleSlug": "e04c094a-ba4b-f960-ddb2-070e82c912fe",
       "developmentId": "WJT192648",
@@ -176,17 +178,17 @@
     {
       "id": 1,
       "name": "Janet",
-      "userName": "itjb"
+      "username": "itjb"
     },
     {
       "id": 2,
       "name": "James",
-      "uaserName": "itjo"
+      "uasername": "itjo"
     },
     {
       "id": 3,
       "name": "Ruaan",
-      "uaserName": "itrv"
+      "uasername": "itrv"
     }
   ]
 }
