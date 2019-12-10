@@ -75,7 +75,7 @@
       },
       "hasSupplierLink": false,
       "hasColourLink": false,
-      "sellingPrice": 35000,
+      "sellingPrice": 35.00,
       "countryCode": "MU",
       "sizeGroups": [
           {
@@ -161,7 +161,7 @@
       },
       "hasSupplierLink": false,
       "hasColourLink": true,
-      "sellingPrice": 22000,
+      "sellingPrice": 22.00,
       "countryCode": "TR",
       "sizeGroups": [
           {
