@@ -192,5 +192,10 @@
       "name": "Ruaan",
       "username": "itrv"
     }
-  ]
+  ],
+"posts":[
+    {
+        "id": 1
+    }
+]
 }
